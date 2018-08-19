@@ -1,4 +1,4 @@
-./wordpress/wp-content/plugins/*
-./wordpress/wp-content/themes/*
-!./wordpress/wp-content/themes/fifth-theme/
-!./wordpress/wp-content/themes/fifth-theme/**
+wordpress/wp-content/plugins/
+wordpress/wp-content/themes/
+!wordpress/wp-content/themes/fifth-theme
+!wordpress/wp-content/themes/fifth-theme/**
